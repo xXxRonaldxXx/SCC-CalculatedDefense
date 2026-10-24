@@ -15,7 +15,7 @@ A Bastion Calculator claims a defense zone and powers every tower inside it. Six
 ## Before you report
 
 - The in-game manual explains every block and window.
-- **`/scc_defense`** commands: `/scc_defense` and the server config `scc_defense-server.toml`.
+- **The server config** `scc_defense-server.toml`: every effect can be switched off there, and bosses can be allowed as targets.
 - Problems that are about SCC itself (network, storage, autocrafting) belong in the **[SCC tracker](https://github.com/xXxRonaldxXx/SuperCoolCalculator/issues)**.
 
 ## What to put in a bug report
